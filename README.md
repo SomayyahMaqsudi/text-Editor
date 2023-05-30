@@ -92,3 +92,4 @@ To set up and run the text editor web application, follow these steps:
 
 - To install the web application as a desktop application, click on the "Install" button.
 - This will download the application and create an icon on your desktop for easy access.
+# text-Editor
